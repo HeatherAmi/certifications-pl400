@@ -427,3 +427,29 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+# Power Platform CLI
+.pac/
+
+# Node modules (PCF projects)
+node_modules/
+npm-debug.log*
+
+# PCF build output
+out/
+pcf-temp/
+
+# PCF generated files we do not want in source control
+**/generated/
+
+# Local user solution exports (we explicitly commit ones we want)
+*.zip.local
+
+# VS Code workspace files we do not want shared
+.vscode/settings.json
+
+# Mac OS junk
+.DS_Store
+
+# Windows junk
+Thumbs.db
+
