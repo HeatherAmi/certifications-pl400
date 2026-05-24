@@ -44,7 +44,16 @@ Projects run from simple to complex. Each one builds on skills from the previous
 ## Project structure
 
 Every project folder follows the same layout:
-projects/NN-project-name/ ├── README.md Overview, prerequisites, learning outcomes, video links ├── trainee-guide.md Full step-by-step guide for following along ├── solution/ Downloadable managed and unmanaged solutions ├── src/ Any source code (plug-ins, PCF, scripts) └── assets/ Screenshots and supporting images
+
+```
+projects/NN-project-name/
+├── README.md           Overview, prerequisites, learning outcomes, video links
+├── trainee-guide.md    Full step-by-step guide for following along
+├── solution/           Downloadable managed and unmanaged solutions
+├── src/                Any source code (plug-ins, PCF, scripts)
+└── assets/             Screenshots and supporting images
+​```
+
 
 
 ## How to use this repo
