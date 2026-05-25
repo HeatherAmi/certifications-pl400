@@ -1,5 +1,17 @@
 # Certifications: PL-400 Power Platform Developer
 
+<div align="center">
+
+![Status](https://img.shields.io/badge/Status-In_progress-yellow?style=flat-square)
+![Licence](https://img.shields.io/badge/Licence-MIT-blue?style=flat-square)
+![Power Platform](https://img.shields.io/badge/Power_Platform-742774?style=flat-square&logo=microsoft&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+[![YouTube](https://img.shields.io/badge/Videos-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@HeatherAmiDigital)
+
+</div>
+
+
 Bite-size, follow-along projects to help you prepare for the **Microsoft PL-400: Power Platform Developer** certification, and to build real, practical skills in Power Platform development.
 
 Every project is self-contained, comes with a written step-by-step guide, and has a matching short video on YouTube. Videos are kept to around 15 minutes each so you can follow along in focused sessions.
