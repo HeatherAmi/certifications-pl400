@@ -64,9 +64,7 @@ projects/NN-project-name/
 ├── solution/           Downloadable managed and unmanaged solutions
 ├── src/                Any source code (plug-ins, PCF, scripts)
 └── assets/             Screenshots and supporting images
-​```
-
-
+```
 
 ## How to use this repo
 
